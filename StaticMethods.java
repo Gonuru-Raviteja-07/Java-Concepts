@@ -1,6 +1,6 @@
 //static methods: Methods with static keyword
 //->can be accessed outside the class with class name
-//->can also be called with the object reference of a class
+//->can also be called with the object reference & null reference variable
 //->cannot be overriden
 class Demo1{
     public static void greet(){
